@@ -1,5 +1,4 @@
-/*
-    Creator: Aditya Mohan 
+/* 
     Description: generating echo using a fixed delay 
 */
     
