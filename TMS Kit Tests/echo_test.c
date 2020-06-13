@@ -1,9 +1,5 @@
 /*
-
-   Creator: Aditya Mohan 
-
    Description: generation of echo with fixed delay 
-
 */ 
 
 #include "DSK6713_AIC23.h"	                // codec support
