@@ -1,5 +1,4 @@
 /*
-   Creator : Aditya Mohan 
    Description : 
 
    This code is the simplest Fir Filter implementation,which uses
