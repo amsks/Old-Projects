@@ -1,6 +1,5 @@
 /*
-     Creator : Aditya Mohan 
-     
+   
      Description : Four FIR filters: LP, HP, BS, BP implemented through .COF files
 
 */
