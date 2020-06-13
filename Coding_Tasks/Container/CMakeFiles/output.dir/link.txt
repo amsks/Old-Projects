@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/output.dir/container_sort.cpp.o  -o output -rdynamic 

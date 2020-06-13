@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aditya/Desktop/Objective_Task_Phase/Coding_Tasks /CSV /csv_processor.cpp
+fstream
+-
+iostream
+-
+stdlib.h
+-
+vector
+-
+string.h
+-
+
